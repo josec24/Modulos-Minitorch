@@ -1,5 +1,5 @@
 # Módulos-Minitorch
 ## Por ahora estan completament terminados los modulos:
--Modulo 1<br/>
--Modulo 2
+-Modulo 0<br/>
+-Modulo 1
 
