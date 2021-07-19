@@ -20,7 +20,7 @@ python run_tests.py
 ```
 
 
-* Grafica 1:
+* Grafica 1:<br/>
 En la carpeta project
 ```
 python run_scalar.py
@@ -29,7 +29,7 @@ python run_scalar.py
 
 ![Captura de pantalla (448)](https://user-images.githubusercontent.com/77817368/126119005-837eb041-f018-4d6c-b871-48e57c88caa0.png)
 
-* Grafica 2:
+* Grafica 2:<br/>
 En la carpeta project
 ```
 python xor.py
