@@ -21,16 +21,16 @@ python run_tests.py
 
 
 * Grafica 1:
-
+En la carpeta project
 ```
-python run_tests.py
+python run_scalar.py
 ```
 ![descarga](https://user-images.githubusercontent.com/77817368/126118837-a2fc056a-457b-4e13-886c-36c1a08db223.png)
 
 ![Captura de pantalla (448)](https://user-images.githubusercontent.com/77817368/126119005-837eb041-f018-4d6c-b871-48e57c88caa0.png)
 
 * Grafica 2:
-
+En la carpeta project
 ```
 python xor.py
 ```
